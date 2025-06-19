@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulsamad Gbadebo
 
-<!--
-**Abdulsamad1109/Abdulsamad1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **backend developer** who loves building powerful and scalable **backend APIs**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages & Markup:** JavaScript, HTML, CSS
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js, NestJS (learning)
+- **Databases:** MongoDB, PostgreSQL
+
+---
+
+## 🚀 Projects
+
+### ⚡ Bolt-like App for Artisans  
+A platform where users can book requests for various artisan services — fast, easy, and efficient.
+
+---
+
+## 🎯 Current Goals
+- Become a **backend expert**
+- Land a **remote developer job**
+- Build my own **BaaS (Backend-as-a-Service)** platform
+
+---
+
+## 🌱 Currently Learning
+- **NestJS** — mastering structure, decorators, modules, and more!
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [gbadeboabdulsamad@gmail.com](mailto:gbadeboabdulsamad@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/ade-gbadebo-3749b3303)  
+- 🐦 [Twitter](https://twitter.com/adeAdeGbadebo)  
+- 📸 [Instagram](https://instagram.com/gbadeboabdulsamad)
+
+---
+
+## 🧡 Fun Facts
+- 🌳 Nature lover
+- ❤️ Manchester United die-hard fan
+
+---
+
+> “Code with intention. Learn with purpose. Build with heart.” – Gbadebo
