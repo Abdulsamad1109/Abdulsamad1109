@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulsamad Gbadebo
+# 👋 Hi, I'm Ade Gbadebo
 
 🎯 A passionate **backend developer** who loves building powerful and scalable **backend APIs**.
 
